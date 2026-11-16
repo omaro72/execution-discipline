@@ -1,0 +1,5 @@
+# Keep LF everywhere so the skill reads the same on Windows, macOS, and Linux.
+* text=auto eol=lf
+*.zip binary
+*.skill binary
+*.png binary

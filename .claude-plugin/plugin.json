@@ -1,0 +1,20 @@
+{
+  "name": "execution-discipline",
+  "displayName": "Execution Discipline",
+  "version": "1.0.0",
+  "description": "Execution Discipline is a disciplined working method for AI models, inspired by Claude Fable 5.2: understand the real objective, plan in proportion to risk, execute completely, verify with evidence, and report honestly. Independent community project, not affiliated with Anthropic.",
+  "author": {
+    "name": "The execution-discipline contributors"
+  },
+  "homepage": "https://github.com/omaro72/execution-discipline",
+  "repository": "https://github.com/omaro72/execution-discipline",
+  "license": "MIT",
+  "keywords": [
+    "methodology",
+    "reliability",
+    "planning",
+    "verification",
+    "self-review",
+    "agent-skills"
+  ]
+}

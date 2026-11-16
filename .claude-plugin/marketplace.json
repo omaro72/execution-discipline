@@ -1,0 +1,15 @@
+{
+  "name": "execution-discipline",
+  "owner": {
+    "name": "The execution-discipline contributors"
+  },
+  "description": "Single-plugin marketplace for Execution Discipline, a working method for AI models inspired by Claude Fable 5.2. Independent community project.",
+  "plugins": [
+    {
+      "name": "execution-discipline",
+      "source": "./",
+      "description": "A disciplined working method for AI models: understand, plan, execute, verify, and report honestly.",
+      "category": "productivity"
+    }
+  ]
+}

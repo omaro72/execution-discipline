@@ -1,0 +1,16 @@
+# Local build output
+dist/
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# Local tool settings, environment files, and credentials must never be committed
+.claude/
+.env
+.env.*
+*.pem
+*.key
